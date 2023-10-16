@@ -10,7 +10,8 @@ An opinionated starter template using NextJS framework
 
 You can start editing the page by modifying `app/page.tsx` and delete `.gitkeep` files.
 
-The suggested directory structure
+The suggested directory structure, everything inside `src` directory.
+
 ```
 .
 ├── app
